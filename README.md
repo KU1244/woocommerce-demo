@@ -52,4 +52,4 @@
 
 ## Repository
 
-GitHub: [https://github.com/KU1244/woocommerce-express-demo](https://github.com/KU1244/woocommerce-express-demo)
+GitHub: [https://github.com/KU1244/woocommerce-demo](https://github.com/KU1244/woocommerce-express-demo)
