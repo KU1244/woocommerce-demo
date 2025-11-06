@@ -101,20 +101,18 @@ markdown
 
 ## 📸 Screenshots
 
-| # | Description | File |
-|---|--------------|------|
-| 1 | Product page (Stripe + PayPal buttons) | 01-product.png |
-| 2 | Stripe test checkout | 02-checkout-stripe.png |
-| 3 | PayPal sandbox screen | 03-paypal-screen.png |
-| 4 | Order received (#67) | 04-order-received.png |
-| 5 | WooCommerce order list | 05-orders-list.png |
-| 6 | Stripe dashboard showing success | 06-stripe-dashboard.png |
+| # | Description                | Image |
+|---|----------------------------|-------|
+| 1 | Product page               | ![Product](./screenshots/wordpress-home.png) |
+| 2 | Stripe test checkout       | ![Stripe Checkout](./screenshots/checkout-stripe.png) |
+| 3 | PayPal sandbox screen      | ![PayPal](./screenshots/paypal-screen.png) |
+| 4 | Order received / Orders    | ![Orders List](./screenshots/orders-list.png) |
+| 5 | Stripe dashboard (success) | ![Stripe Dashboard](./screenshots/stripe-dashboard.png) |
+| 6 | WP + WooCommerce summary   | ![WP + WooCommerce](./screenshots/wordpress-woocommerce.png) |
+
 
 ---
 
 ## 🔗 Repository
 
 GitHub: https://github.com/KU1244/woocommerce-demo
-```
-
-Want me to also add a small **PageSpeed “Before/After” table** template you can fill with numbers?
