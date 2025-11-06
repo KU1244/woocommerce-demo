@@ -1,5 +1,15 @@
 markdown
----
+## 📸 Screenshots
+
+| # | Description                | Image |
+|---|----------------------------|-------|
+| 1 | Product page               | ![Product](./screenshots/wordpress-home.png) |
+| 2 | Stripe test checkout       | ![Stripe Checkout](./screenshots/checkout-stripe.png) |
+| 3 | PayPal sandbox screen      | ![PayPal](./screenshots/paypal-screen.png) |
+| 4 | Order received / Orders    | ![Orders List](./screenshots/orders-list.png) |
+| 5 | Stripe dashboard (success) | ![Stripe Dashboard](./screenshots/stripe-dashboard.png) |
+| 6 | WP + WooCommerce summary   | ![WP + WooCommerce](./screenshots/wordpress-woocommerce.png) |
+
 
 ## 💳 Payment Test Log (Hands-on)
 
@@ -96,22 +106,6 @@ markdown
   - Image optimization / Cache / Rank Math setup  
   - Stripe (Test) and PayPal (Sandbox) verified: **#67** / **#69**  
   - Checkout pages excluded from cache
-
----
-
-## 📸 Screenshots
-
-| # | Description                | Image |
-|---|----------------------------|-------|
-| 1 | Product page               | ![Product](./screenshots/wordpress-home.png) |
-| 2 | Stripe test checkout       | ![Stripe Checkout](./screenshots/checkout-stripe.png) |
-| 3 | PayPal sandbox screen      | ![PayPal](./screenshots/paypal-screen.png) |
-| 4 | Order received / Orders    | ![Orders List](./screenshots/orders-list.png) |
-| 5 | Stripe dashboard (success) | ![Stripe Dashboard](./screenshots/stripe-dashboard.png) |
-| 6 | WP + WooCommerce summary   | ![WP + WooCommerce](./screenshots/wordpress-woocommerce.png) |
-
-
----
 
 ## 🔗 Repository
 
